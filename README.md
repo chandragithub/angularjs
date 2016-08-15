@@ -51,11 +51,14 @@ Finally with the help of restfull web service and Client side MVC (Model View Co
 
 - How angularJs change the world of web application?
 
-        AngularJs is a client side MV* (Model View Whatever) javascript Framework. You can use any term instead of  whatever eg. (Controller, Presenter, ViewModel). The most popular functionality of AngularJs is to provide two way data binding.
+        AngularJs is a client side MV* (Model View Whatever) javascript Framework. You can use any term instead 
+        of  whatever eg. (Controller, Presenter, ViewModel). The most popular functionality of AngularJs is to 
+        provide two way data binding.
 
 - What do you mean by Two-Way Data binding?
 
-        Two-way data binding is to update the data/information to the view whenever any data change in model or vice-versa.
+        Two-way data binding is to update the data/information to the view whenever any data change in model 
+        or vice-versa.
 
         eg. ng-model in angularJs is used to provide two-way data binding.
    
